@@ -22,7 +22,7 @@ Dataset: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/tita
 - Matplotlib (optional for graphs)
 
 ##  Output
-Achieved an accuracy of approximately **XX.X%** on the test data.
+Achieved an accuracy of approximately **80.4%** on the test data.
 
 ##  File Info
 - `titanic_prediction.ipynb` – Complete Jupyter notebook
